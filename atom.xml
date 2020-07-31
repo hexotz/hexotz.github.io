@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hexotz.github.io</id>
+    <title>Sweetiey甜甜的博客</title>
+    <updated>2020-07-31T10:13:37.228Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hexotz.github.io"/>
+    <link rel="self" href="https://hexotz.github.io/atom.xml"/>
+    <subtitle>一半技术，一半生活</subtitle>
+    <logo>https://hexotz.github.io/images/avatar.png</logo>
+    <icon>https://hexotz.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Sweetiey甜甜的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[xss漏洞登录别人代刷网]]></title>
+        <id>https://hexotz.github.io/post/G6bs_Ny5U/</id>
+        <link href="https://hexotz.github.io/post/G6bs_Ny5U/">
+        </link>
+        <updated>2020-07-16T10:09:56.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>我们先开个免费分站，进入后台，点击站点管理，找到设置公告的地方</p>
+<figure data-type="image" tabindex="1"><img src="https://s1.ax1x.com/2020/07/16/UD4Sr8.png" alt="1" loading="lazy"></figure>
+<p>这个就是有xss的跨站漏洞 我们就可以利用这个漏洞来获取管理员cookie</p>
+<p>百度找一个xss平台</p>
+<figure data-type="image" tabindex="2"><img src="https://s1.ax1x.com/2020/07/16/UD4eMV.png" alt="2" loading="lazy"></figure>
+<p>在我的项目选择创建，项目名随便<br>
+勾选默认模块，选无keep，之后勾选cookie<br>
+点击查看代码</p>
+<p>把代码复制到公告</p>
+<figure data-type="image" tabindex="3"><img src="https://s1.ax1x.com/2020/07/16/UD4Sr8.png" alt="1" loading="lazy"></figure>
+<p>等站长从你网站进入后台时他的cookie就被记录了</p>
+<p>我们就可以利用cookie进入后台</p>
+<figure data-type="image" tabindex="4"><img src="https://s1.ax1x.com/2020/07/16/UD4Bid.png" alt="3" loading="lazy"></figure>
+<p>然后在登陆界面f12,Application里面把获取到的cookie值和名字填进去，f5刷新界面</p>
+<figure data-type="image" tabindex="5"><img src="https://s1.ax1x.com/2020/07/16/UD4Xo4.png" alt="4" loading="lazy"></figure>
+<p>登陆成功<br>
+<img src="https://s1.ax1x.com/2020/07/17/Usrxkq.png" alt="5" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 使用pn532复制水卡无限刷洗澡水]]></title>
+        <id>https://hexotz.github.io/post/n_sYN0zel/</id>
+        <link href="https://hexotz.github.io/post/n_sYN0zel/">
+        </link>
+        <updated>2020-07-15T11:38:25.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>前不久在葫芦侠看到很多破解水卡的帖子，很多都是用的122u<br>
+<img src="https://s1.ax1x.com/2020/07/15/UwIYLD.png" alt="1" loading="lazy"></p>
+<p>看到了吧，有点小贵。。。于是我犹豫了半年。</p>
+<p>后来有个同学问我能不能把水卡给弄开了，无限刷水。于是我又重新</p>
+<p>研究了这个玩意.发现还是有替代品的，那就是今天的主角 pn532</p>
+<p>上图</p>
+<figure data-type="image" tabindex="1"><img src="https://www.arduino.cn/data/attachment/forum/201906/03/151901ejp5enuntgeetuw9.jpg" alt="2" loading="lazy"></figure>
+<p>除了要买pn532,还要买一个 usb-TTL和白卡（cuid)</p>
+<p>接线图如下</p>
+<figure data-type="image" tabindex="2"><img src="https://www.arduino.cn/data/attachment/forum/201906/03/151542dp5o9v9oxmjum89o.png" alt="3" loading="lazy"></figure>
+<p>正负极不要接反了要不然可能会烧掉哦</p>
+<p>线路连接好后，我们打开上位机软件</p>
+<figure data-type="image" tabindex="3"><img src="https://s1.ax1x.com/2020/07/15/UwXVQs.png" alt="4" loading="lazy"></figure>
+<p>然后把卡放上去读整卡</p>
+<figure data-type="image" tabindex="4"><img src="https://s1.ax1x.com/2020/07/15/UwjDEV.jpg" alt="5" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://s1.ax1x.com/2020/07/15/Uwvm5T.png" alt="6" loading="lazy"></figure>
+<p>我这张卡花了半个小时左右读出来了</p>
+<p>然后点那个三角形，保存.DUMP文件</p>
+<p>然后把白卡放上去读整卡，然后写整卡，选择.dump文件写进去就好了.</p>
+<p>这样就得到一张00复制的卡。刷完了再去写入就🆗了。</p>
+<p>还没完，把.dump文件拉进分析软件</p>
+<figure data-type="image" tabindex="6"><img src="https://s1.ax1x.com/2020/07/15/UwxrpF.png" alt="7" loading="lazy"></figure>
+<p>同时我去刷了一下我同学的水卡发现4扇区变化了，</p>
+<figure data-type="image" tabindex="7"><img src="https://s1.ax1x.com/2020/07/15/UwxRTx.png" alt="8" loading="lazy"></figure>
+<p>而3扇区是饭卡的，有我们的姓名，我们把3扇区改成和5扇区一样的空数据，这样就查不到我们了</p>
+<p>最后装个逼</p>
+<figure data-type="image" tabindex="8"><img src="https://s1.ax1x.com/2020/07/15/Uwxq0I.png" alt="9" loading="lazy"></figure>
+<hr>
+<p>最后我觉得有必要看看这个</p>
+<p><a href="https://mp.weixin.qq.com/s/yM16LtL1i0WP3hqYaF4erA">大学生自学复制饭卡，2月获利10万 ，铐手摁床被抓！ </a><br>
+<a href="http://www.xinhuanet.com/politics/2016-11/07/c_1119867015.htm">中华人民共和国网络安全法</a></p>
+<p><a href="https://www.t00ls.net/articles-53566.html">黑产牛，万一你被抓了呢？所以你需要知道这些</a></p>
+<p><a href="https://www.t00ls.net/articles-35804.html">搞黑产，算算你能判多少年？</a></p>
+<p>技术是一把双刃剑，可以做好事，当然也可能将你自己送进监狱</p>
+<p><strong>总而言之，遵纪守法、NO ZUO NO DIE</strong></p>
+<p>学好技术，然后找一份好工作，为社会做贡献，学好网络安全为人民</p>
+<p>第一次用markdown。语法格式不太会。以后慢慢更正吧。。。。。。。。。。。。。。。。</p>
+<p>补充：软件问卖家要</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://hexotz.github.io/post/hello-gridea/</id>
+        <link href="https://hexotz.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
