@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hexotz.github.io</id>
+    <id>https://blog.ait6.cn</id>
     <title>Sweetiey甜甜的博客</title>
-    <updated>2020-07-31T10:13:37.228Z</updated>
+    <updated>2020-07-31T10:15:01.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hexotz.github.io"/>
-    <link rel="self" href="https://hexotz.github.io/atom.xml"/>
+    <link rel="alternate" href="https://blog.ait6.cn"/>
+    <link rel="self" href="https://blog.ait6.cn/atom.xml"/>
     <subtitle>一半技术，一半生活</subtitle>
-    <logo>https://hexotz.github.io/images/avatar.png</logo>
-    <icon>https://hexotz.github.io/favicon.ico</icon>
+    <logo>https://blog.ait6.cn/images/avatar.png</logo>
+    <icon>https://blog.ait6.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, Sweetiey甜甜的博客</rights>
     <entry>
         <title type="html"><![CDATA[xss漏洞登录别人代刷网]]></title>
-        <id>https://hexotz.github.io/post/G6bs_Ny5U/</id>
-        <link href="https://hexotz.github.io/post/G6bs_Ny5U/">
+        <id>https://blog.ait6.cn/post/G6bs_Ny5U/</id>
+        <link href="https://blog.ait6.cn/post/G6bs_Ny5U/">
         </link>
         <updated>2020-07-16T10:09:56.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
@@ -38,8 +38,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[ 使用pn532复制水卡无限刷洗澡水]]></title>
-        <id>https://hexotz.github.io/post/n_sYN0zel/</id>
-        <link href="https://hexotz.github.io/post/n_sYN0zel/">
+        <id>https://blog.ait6.cn/post/n_sYN0zel/</id>
+        <link href="https://blog.ait6.cn/post/n_sYN0zel/">
         </link>
         <updated>2020-07-15T11:38:25.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
@@ -85,8 +85,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://hexotz.github.io/post/hello-gridea/</id>
-        <link href="https://hexotz.github.io/post/hello-gridea/">
+        <id>https://blog.ait6.cn/post/hello-gridea/</id>
+        <link href="https://blog.ait6.cn/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
