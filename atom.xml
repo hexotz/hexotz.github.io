@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.ait6.cn</id>
     <title>Sweetiey甜甜的博客</title>
-    <updated>2020-08-05T09:52:49.651Z</updated>
+    <updated>2020-08-05T13:29:06.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.ait6.cn"/>
     <link rel="self" href="https://blog.ait6.cn/atom.xml"/>
@@ -10,6 +10,44 @@
     <logo>https://blog.ait6.cn/images/avatar.png</logo>
     <icon>https://blog.ait6.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, Sweetiey甜甜的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[抓包免费看作业帮VIP视频讲解]]></title>
+        <id>https://blog.ait6.cn/post/zhua-bao-mian-fei-kan-zuo-ye-bang-vip-shi-pin-jiang-jie/</id>
+        <link href="https://blog.ait6.cn/post/zhua-bao-mian-fei-kan-zuo-ye-bang-vip-shi-pin-jiang-jie/">
+        </link>
+        <updated>2020-08-05T10:12:33.000Z</updated>
+        <content type="html"><![CDATA[<p>最近也是因为疫情，在家里学习，不会的问老师也麻烦。只好用用作业帮搜搜。今天发现文字解析有些看不明白，想看看视频讲解。这不 要VIP。我们来试试能不能破解了他<br>
+首先我们要用到一个抓包软件  <a href="https://www.baidu.com/s?wd=httpcanary" title="httpcanary">httpcanary</a> 自行下载破解版，当然如果你以后想多研究它最好支持一下正版。<br>
+我们先打开httpcanary，首次打开要安装证书，跟着提示走就行，这里略过<br>
+先把作业帮添加进来<br>
+<a href="https://imgchr.com/i/aymp3d"><img src="https://s1.ax1x.com/2020/08/05/aymp3d.jpg" alt="aymp3d.jpg" loading="lazy"></a></p>
+<figure data-type="image" tabindex="1"><img src="https://s1.ax1x.com/2020/08/05/ayuBtO.jpg" alt="ayuBtO.jpg" loading="lazy"></figure>
+<p>选择作业帮</p>
+<figure data-type="image" tabindex="2"><img src="https://s1.ax1x.com/2020/08/05/ayuvNT.jpg" alt="ayuvNT.jpg" loading="lazy"></figure>
+<p>在作业帮里面先进入到要播放的视频那里</p>
+<figure data-type="image" tabindex="3"><img src="https://s1.ax1x.com/2020/08/05/ayKQKA.jpg" alt="ayKQKA.jpg" loading="lazy"></figure>
+<p>然后切换到httpcanary，点击主界面的小飞机开始抓包</p>
+<p>然后切到作业帮，点开视频。</p>
+<p><img src="https://s1.ax1x.com/2020/08/05/ayKsaV.jpg" alt="ayKsaV.jpg" loading="lazy"><br>
+、<br>
+切回httpcanary，关掉小飞机。<br>
+我们来看一下抓到的包<br>
+<img src="https://s1.ax1x.com/2020/08/05/ayMaFK.jpg" alt="ayMaFK.jpg" loading="lazy"></p>
+<p>可以看到一些关键词 VIP，search，，，<br>
+点进去看看</p>
+<figure data-type="image" tabindex="4"><img src="https://s1.ax1x.com/2020/08/05/ayoFyV.jpg" alt="ayoFyV.jpg" loading="lazy"></figure>
+<p>这里又发现一个关键词 payresult，他的值是0，学过2进制的都知道，0如果不是VIP那么很有可能1就是VIP，我们返回主界面，长按，选择静态注入。<br>
+<img src="https://s1.ax1x.com/2020/08/05/ayTRED.jpg" alt="ayTRED.jpg" loading="lazy"><br>
+<img src="https://s1.ax1x.com/2020/08/05/ay7siQ.jpg" alt="ay7siQ.jpg" loading="lazy"><br>
+在线编辑<br>
+<a href="https://imgchr.com/i/ay7xoD"><img src="https://s1.ax1x.com/2020/08/05/ay7xoD.md.jpg" alt="ay7xoD.md.jpg" loading="lazy"></a><br>
+把0改1，<br>
+<a href="https://imgchr.com/i/ayHX1s"><img src="https://s1.ax1x.com/2020/08/05/ayHX1s.md.jpg" alt="ayHX1s.md.jpg" loading="lazy"></a><br>
+然后再回到主界面，打开小飞机开始抓包，回到作业帮，重新打开视频看看<br>
+<a href="https://imgchr.com/i/ayb19H"><img src="https://s1.ax1x.com/2020/08/05/ayb19H.md.jpg" alt="ayb19H.md.jpg" loading="lazy"></a><br>
+perfect😁</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[xss漏洞登录别人代刷网]]></title>
         <id>https://blog.ait6.cn/post/G6bs_Ny5U/</id>
