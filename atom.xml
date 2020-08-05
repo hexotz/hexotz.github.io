@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.ait6.cn</id>
     <title>Sweetiey甜甜的博客</title>
-    <updated>2020-08-05T09:12:23.344Z</updated>
+    <updated>2020-08-05T09:32:10.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.ait6.cn"/>
     <link rel="self" href="https://blog.ait6.cn/atom.xml"/>
@@ -16,8 +16,7 @@
         <link href="https://blog.ait6.cn/post/G6bs_Ny5U/">
         </link>
         <updated>2020-07-16T10:09:56.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>我们先开个免费分站，进入后台，点击站点管理，找到设置公告的地方</p>
+        <content type="html"><![CDATA[<p>我们先开个免费分站，进入后台，点击站点管理，找到设置公告的地方</p>
 <figure data-type="image" tabindex="1"><img src="https://s1.ax1x.com/2020/07/16/UD4Sr8.png" alt="1" loading="lazy"></figure>
 <p>这个就是有xss的跨站漏洞 我们就可以利用这个漏洞来获取管理员cookie</p>
 <p>百度找一个xss平台</p>
@@ -42,8 +41,7 @@
         <link href="https://blog.ait6.cn/post/n_sYN0zel/">
         </link>
         <updated>2020-07-15T11:38:25.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>前不久在葫芦侠看到很多破解水卡的帖子，很多都是用的122u<br>
+        <content type="html"><![CDATA[<p>前不久在葫芦侠看到很多破解水卡的帖子，很多都是用的122u<br>
 <img src="https://s1.ax1x.com/2020/07/15/UwIYLD.png" alt="1" loading="lazy"></p>
 <p>看到了吧，有点小贵。。。于是我犹豫了半年。</p>
 <p>后来有个同学问我能不能把水卡给弄开了，无限刷水。于是我又重新</p>
