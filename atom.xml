@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hexotz.github.io</id>
     <title>Sweetiey甜甜的博客</title>
-    <updated>2020-08-05T14:26:13.342Z</updated>
+    <updated>2020-08-06T05:35:11.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hexotz.github.io"/>
     <link rel="self" href="https://hexotz.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://hexotz.github.io/images/avatar.png</logo>
     <icon>https://hexotz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Sweetiey甜甜的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[浏览器下载QQ音乐付费音乐]]></title>
+        <id>https://hexotz.github.io/post/liu-lan-qi-xia-zai-qq-yin-le-fu-fei-yin-le/</id>
+        <link href="https://hexotz.github.io/post/liu-lan-qi-xia-zai-qq-yin-le-fu-fei-yin-le/">
+        </link>
+        <updated>2020-08-06T05:33:44.000Z</updated>
+        <content type="html"><![CDATA[<p>怎么下载QQ音乐付费音乐？</p>
+<p>先准备一个浏览器比如火狐，QQ浏览器，谷歌浏览器，360浏览器等(操作差不多啦)</p>
+<p>打开<a href="https://y.qq.com" title="QQ音乐官网">QQ音乐官网</a>，播放我们要下载的歌。</p>
+<p>同时按浏览器F12打开开发者工具，console里面搜索 tc.qq.com(如果没有就按F5刷新一下)</p>
+<figure data-type="image" tabindex="1"><img src="https://s1.ax1x.com/2020/08/06/acIiaF.png" alt="https://s1.ax1x.com/2020/08/06/acIiaF.png" loading="lazy"></figure>
+<p>找到那个链接，鼠标右键，在新标签页打开</p>
+<figure data-type="image" tabindex="2"><img src="https://s1.ax1x.com/2020/08/06/acI2LV.png" alt="acI2LV.png" loading="lazy"></figure>
+<p>这样就可以下载了</p>
+<p>这首歌是要付费的哦</p>
+<figure data-type="image" tabindex="3"><img src="https://s1.ax1x.com/2020/08/06/acoPyt.jpg" alt="acoPyt.jpg" loading="lazy"></figure>
+<p>end</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[抓包免费看作业帮VIP视频讲解]]></title>
         <id>https://hexotz.github.io/post/zhua-bao-mian-fei-kan-zuo-ye-bang-vip-shi-pin-jiang-jie/</id>
