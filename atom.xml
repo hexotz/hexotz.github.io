@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.ait6.cn</id>
     <title>Sweetiey甜甜的博客</title>
-    <updated>2020-08-06T05:40:38.417Z</updated>
+    <updated>2020-08-24T14:40:13.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.ait6.cn"/>
     <link rel="self" href="https://blog.ait6.cn/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://blog.ait6.cn/images/avatar.png</logo>
     <icon>https://blog.ait6.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, Sweetiey甜甜的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[用网易云官方接口解析VIP音乐]]></title>
+        <id>https://blog.ait6.cn/post/FEnvrH9jx/</id>
+        <link href="https://blog.ait6.cn/post/FEnvrH9jx/">
+        </link>
+        <updated>2020-08-24T14:10:04.000Z</updated>
+        <content type="html"><![CDATA[<p>打开music.163.com,听一下要下载的歌（不能试听的下不了）。<br>
+<img src="https://s1.ax1x.com/2020/08/24/dyGdxJ.png" alt="dyGdxJ.png" loading="lazy"><br>
+复制id<br>
+把id复制到这个链接里面如图</p>
+<pre><code class="language-html">http://music.163.com/song/media/outer/url?id=.mp3
+</code></pre>
+<p><img src="https://s1.ax1x.com/2020/08/24/dyJrlQ.png" alt="dyJrlQ.png" loading="lazy"><br>
+然后回车，如果404，注意有没有空格，重新多试几遍<br>
+后面就会跳到下载界面直接下载或者用下载器下载即可<br>
+<img src="https://s1.ax1x.com/2020/08/24/dyJqTx.png" alt="dyJqTx.png" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[浏览器下载QQ音乐付费音乐]]></title>
         <id>https://blog.ait6.cn/post/liu-lan-qi-xia-zai-qq-yin-le-fu-fei-yin-le/</id>
