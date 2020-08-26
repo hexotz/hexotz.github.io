@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hexotz.github.io</id>
     <title>Sweetiey甜甜的博客</title>
-    <updated>2020-08-25T08:58:52.792Z</updated>
+    <updated>2020-08-26T03:39:56.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hexotz.github.io"/>
     <link rel="self" href="https://hexotz.github.io/atom.xml"/>
@@ -112,15 +112,15 @@ perfect😁</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ 使用pn532复制水卡无限刷洗澡水]]></title>
-        <id>https://hexotz.github.io/post/n_sYN0zel/</id>
-        <link href="https://hexotz.github.io/post/n_sYN0zel/">
+        <title type="html"><![CDATA[ 使用pn532复制水卡]]></title>
+        <id>https://hexotz.github.io/post/ic/</id>
+        <link href="https://hexotz.github.io/post/ic/">
         </link>
         <updated>2020-07-15T11:38:25.000Z</updated>
-        <content type="html"><![CDATA[<p>前不久在葫芦侠看到很多破解水卡的帖子，很多都是用的122u<br>
+        <content type="html"><![CDATA[<p>前看到很多复制水卡的帖子，很多都是用的122u<br>
 <img src="https://s1.ax1x.com/2020/07/15/UwIYLD.png" alt="1" loading="lazy"></p>
 <p>看到了吧，有点小贵。。。于是我犹豫了半年。</p>
-<p>后来有个同学问我能不能把水卡给弄开了，无限刷水。于是我又重新</p>
+<p>后来有个同学问我能不能把水卡给复制了。于是我又重新</p>
 <p>研究了这个玩意.发现还是有替代品的，那就是今天的主角 pn532</p>
 <p>上图</p>
 <figure data-type="image" tabindex="1"><img src="https://www.arduino.cn/data/attachment/forum/201906/03/151901ejp5enuntgeetuw9.jpg" alt="2" loading="lazy"></figure>
@@ -141,20 +141,14 @@ perfect😁</p>
 <figure data-type="image" tabindex="6"><img src="https://s1.ax1x.com/2020/07/15/UwxrpF.png" alt="7" loading="lazy"></figure>
 <p>同时我去刷了一下我同学的水卡发现4扇区变化了，</p>
 <figure data-type="image" tabindex="7"><img src="https://s1.ax1x.com/2020/07/15/UwxRTx.png" alt="8" loading="lazy"></figure>
-<p>而3扇区是饭卡的，有我们的姓名，我们把3扇区改成和5扇区一样的空数据，这样就查不到我们了</p>
-<p>最后装个逼</p>
-<figure data-type="image" tabindex="8"><img src="https://s1.ax1x.com/2020/07/15/Uwxq0I.png" alt="9" loading="lazy"></figure>
-<hr>
-<p>最后我觉得有必要看看这个</p>
-<p><a href="https://mp.weixin.qq.com/s/yM16LtL1i0WP3hqYaF4erA">大学生自学复制饭卡，2月获利10万 ，铐手摁床被抓！ </a><br>
-<a href="http://www.xinhuanet.com/politics/2016-11/07/c_1119867015.htm">中华人民共和国网络安全法</a></p>
-<p><a href="https://www.t00ls.net/articles-53566.html">黑产牛，万一你被抓了呢？所以你需要知道这些</a></p>
-<p><a href="https://www.t00ls.net/articles-35804.html">搞黑产，算算你能判多少年？</a></p>
-<p>技术是一把双刃剑，可以做好事，当然也可能将你自己送进监狱</p>
-<p><strong>总而言之，遵纪守法、NO ZUO NO DIE</strong></p>
-<p>学好技术，然后找一份好工作，为社会做贡献，学好网络安全为人民</p>
+<p>而3扇区是饭卡的，有我们的姓名，我们把3扇区改成和5扇区一样的空数据，把姓名改一下<br>
+最后装个逼</p>
+<h2 id=""><img src="https://s1.ax1x.com/2020/07/15/Uwxq0I.png" alt="9" loading="lazy"></h2>
+<p>出这个教程只是因为我用的卡是一卡通，但是卡丢了洗澡卡里面的钱就找不回来了。所以可以先复制一张，哪天洗澡卡掉了也不会损失太大。<br>
+不要用于非法用途</p>
+<p><a href="https://mp.weixin.qq.com/s/yM16LtL1i0WP3hqYaF4erA">大学生自学复制饭卡，2月获利10万 ，铐手摁床被抓！ </a></p>
 <p>第一次用markdown。语法格式不太会。以后慢慢更正吧。。。。。。。。。。。。。。。。</p>
-<p>补充：软件问卖家要</p>
+<p>补充：软件问卖硬件的卖家要</p>
 ]]></content>
     </entry>
     <entry>
