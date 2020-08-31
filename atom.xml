@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.sweetiey.com</id>
     <title>Sweetiey甜甜的博客</title>
-    <updated>2020-08-31T00:17:45.284Z</updated>
+    <updated>2020-08-31T00:22:20.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.sweetiey.com"/>
     <link rel="self" href="https://blog.sweetiey.com/atom.xml"/>
@@ -25,7 +25,11 @@
 <p><img src="https://s1.ax1x.com/2020/08/24/dyJrlQ.png" alt="dyJrlQ.png" loading="lazy"><br>
 然后回车，如果404，注意有没有空格，重新多试几遍<br>
 后面就会跳到下载界面直接下载或者用下载器下载即可<br>
-<img src="https://s1.ax1x.com/2020/08/24/dyJqTx.png" alt="dyJqTx.png" loading="lazy"></p>
+<img src="https://s1.ax1x.com/2020/08/24/dyJqTx.png" alt="dyJqTx.png" loading="lazy"><br>
+例如<br>
+<a href="https://music.163.com/#/song?id=21157332%22https://music.163.com/#/song?id=21157332%22">https://music.163.com/#/song?id=21157332</a><br>
+变成<br>
+<a href="http://music.163.com/song/media/outer/url?id=21157332.mp3" title="http://music.163.com/song/media/outer/url?id=21157332.mp3">http://music.163.com/song/media/outer/url?id=21157332.mp3</a></p>
 ]]></content>
     </entry>
     <entry>
