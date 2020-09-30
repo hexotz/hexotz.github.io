@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.sweetiey.com</id>
     <title>Sweetiey甜甜的博客</title>
-    <updated>2020-08-31T00:26:14.788Z</updated>
+    <updated>2020-09-30T23:12:50.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.sweetiey.com"/>
     <link rel="self" href="https://blog.sweetiey.com/atom.xml"/>
@@ -113,46 +113,6 @@ perfect😁</p>
 <figure data-type="image" tabindex="5"><img src="https://s1.ax1x.com/2020/07/16/UD4Xo4.png" alt="4" loading="lazy"></figure>
 <p>登陆成功<br>
 <img src="https://s1.ax1x.com/2020/07/17/Usrxkq.png" alt="5" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ 使用pn532复制水卡]]></title>
-        <id>https://blog.sweetiey.com/post/ic/</id>
-        <link href="https://blog.sweetiey.com/post/ic/">
-        </link>
-        <updated>2020-07-15T11:38:25.000Z</updated>
-        <content type="html"><![CDATA[<p>前看到很多复制水卡的帖子，很多都是用的122u<br>
-<img src="https://s1.ax1x.com/2020/07/15/UwIYLD.png" alt="1" loading="lazy"></p>
-<p>看到了吧，有点小贵。。。于是我犹豫了半年。</p>
-<p>后来有个同学问我能不能把水卡给复制了。于是我又重新</p>
-<p>研究了这个玩意.发现还是有替代品的，那就是今天的主角 pn532</p>
-<p>上图</p>
-<figure data-type="image" tabindex="1"><img src="https://www.arduino.cn/data/attachment/forum/201906/03/151901ejp5enuntgeetuw9.jpg" alt="2" loading="lazy"></figure>
-<p>除了要买pn532,还要买一个 usb-TTL和白卡（cuid)</p>
-<p>接线图如下</p>
-<figure data-type="image" tabindex="2"><img src="https://www.arduino.cn/data/attachment/forum/201906/03/151542dp5o9v9oxmjum89o.png" alt="3" loading="lazy"></figure>
-<p>正负极不要接反了要不然可能会烧掉哦</p>
-<p>线路连接好后，我们打开上位机软件</p>
-<figure data-type="image" tabindex="3"><img src="https://s1.ax1x.com/2020/07/15/UwXVQs.png" alt="4" loading="lazy"></figure>
-<p>然后把卡放上去读整卡</p>
-<figure data-type="image" tabindex="4"><img src="https://s1.ax1x.com/2020/07/15/UwjDEV.jpg" alt="5" loading="lazy"></figure>
-<figure data-type="image" tabindex="5"><img src="https://s1.ax1x.com/2020/07/15/Uwvm5T.png" alt="6" loading="lazy"></figure>
-<p>我这张卡花了半个小时左右读出来了</p>
-<p>然后点那个三角形，保存.DUMP文件</p>
-<p>然后把白卡放上去读整卡，然后写整卡，选择.dump文件写进去就好了.</p>
-<p>这样就得到一张00复制的卡。刷完了再去写入就🆗了。</p>
-<p>还没完，把.dump文件拉进分析软件</p>
-<figure data-type="image" tabindex="6"><img src="https://s1.ax1x.com/2020/07/15/UwxrpF.png" alt="7" loading="lazy"></figure>
-<p>同时我去刷了一下我同学的水卡发现4扇区变化了，</p>
-<figure data-type="image" tabindex="7"><img src="https://s1.ax1x.com/2020/07/15/UwxRTx.png" alt="8" loading="lazy"></figure>
-<p>而3扇区是饭卡的，有我们的姓名，我们把3扇区改成和5扇区一样的空数据，把姓名改一下<br>
-最后装个逼</p>
-<h2 id=""><img src="https://s1.ax1x.com/2020/07/15/Uwxq0I.png" alt="9" loading="lazy"></h2>
-<p>出这个教程只是因为我用的卡是一卡通，但是卡丢了洗澡卡里面的钱就找不回来了。所以可以先复制一张，哪天洗澡卡掉了也不会损失太大。<br>
-不要用于非法用途</p>
-<p><a href="https://mp.weixin.qq.com/s/yM16LtL1i0WP3hqYaF4erA">大学生自学复制饭卡，2月获利10万 ，铐手摁床被抓！ </a></p>
-<p>第一次用markdown。语法格式不太会。以后慢慢更正吧。。。。。。。。。。。。。。。。</p>
-<p>补充：软件问卖硬件的卖家要</p>
 ]]></content>
     </entry>
     <entry>
