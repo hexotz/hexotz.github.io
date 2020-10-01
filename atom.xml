@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://blog.sweetiey.com</id>
+    <id>https://hexotz.github.io</id>
     <title>Sweetiey甜甜的博客</title>
-    <updated>2020-09-30T23:12:50.620Z</updated>
+    <updated>2020-10-01T03:58:21.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://blog.sweetiey.com"/>
-    <link rel="self" href="https://blog.sweetiey.com/atom.xml"/>
+    <link rel="alternate" href="https://hexotz.github.io"/>
+    <link rel="self" href="https://hexotz.github.io/atom.xml"/>
     <subtitle>一半技术，一半生活</subtitle>
-    <logo>https://blog.sweetiey.com/images/avatar.png</logo>
-    <icon>https://blog.sweetiey.com/favicon.ico</icon>
+    <logo>https://hexotz.github.io/images/avatar.png</logo>
+    <icon>https://hexotz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Sweetiey甜甜的博客</rights>
     <entry>
         <title type="html"><![CDATA[用网易云官方接口解析VIP音乐]]></title>
-        <id>https://blog.sweetiey.com/post/FEnvrH9jx/</id>
-        <link href="https://blog.sweetiey.com/post/FEnvrH9jx/">
+        <id>https://hexotz.github.io/post/FEnvrH9jx/</id>
+        <link href="https://hexotz.github.io/post/FEnvrH9jx/">
         </link>
         <updated>2020-08-24T14:10:04.000Z</updated>
         <content type="html"><![CDATA[<p>打开music.163.com,听一下要下载的歌（不能试听的下不了）。<br>
@@ -34,8 +34,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[浏览器下载QQ音乐付费音乐]]></title>
-        <id>https://blog.sweetiey.com/post/liu-lan-qi-xia-zai-qq-yin-le-fu-fei-yin-le/</id>
-        <link href="https://blog.sweetiey.com/post/liu-lan-qi-xia-zai-qq-yin-le-fu-fei-yin-le/">
+        <id>https://hexotz.github.io/post/liu-lan-qi-xia-zai-qq-yin-le-fu-fei-yin-le/</id>
+        <link href="https://hexotz.github.io/post/liu-lan-qi-xia-zai-qq-yin-le-fu-fei-yin-le/">
         </link>
         <updated>2020-08-06T05:33:44.000Z</updated>
         <content type="html"><![CDATA[<p>怎么下载QQ音乐付费音乐？</p>
@@ -53,8 +53,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[抓包免费看作业帮VIP视频讲解]]></title>
-        <id>https://blog.sweetiey.com/post/zhua-bao-mian-fei-kan-zuo-ye-bang-vip-shi-pin-jiang-jie/</id>
-        <link href="https://blog.sweetiey.com/post/zhua-bao-mian-fei-kan-zuo-ye-bang-vip-shi-pin-jiang-jie/">
+        <id>https://hexotz.github.io/post/zhua-bao-mian-fei-kan-zuo-ye-bang-vip-shi-pin-jiang-jie/</id>
+        <link href="https://hexotz.github.io/post/zhua-bao-mian-fei-kan-zuo-ye-bang-vip-shi-pin-jiang-jie/">
         </link>
         <updated>2020-08-05T10:12:33.000Z</updated>
         <content type="html"><![CDATA[<p>最近也是因为疫情，在家里学习，不会的问老师也麻烦。只好用用作业帮搜搜。今天发现文字解析有些看不明白，想看看视频讲解。这不 要VIP。我们来试试能不能破解了他<br>
@@ -92,8 +92,8 @@ perfect😁</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[xss漏洞登录别人代刷网]]></title>
-        <id>https://blog.sweetiey.com/post/G6bs_Ny5U/</id>
-        <link href="https://blog.sweetiey.com/post/G6bs_Ny5U/">
+        <id>https://hexotz.github.io/post/G6bs_Ny5U/</id>
+        <link href="https://hexotz.github.io/post/G6bs_Ny5U/">
         </link>
         <updated>2020-07-16T10:09:56.000Z</updated>
         <content type="html"><![CDATA[<p>我们先开个免费分站，进入后台，点击站点管理，找到设置公告的地方</p>
@@ -116,9 +116,49 @@ perfect😁</p>
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ 使用pn532复制水卡]]></title>
+        <id>https://hexotz.github.io/post/ic/</id>
+        <link href="https://hexotz.github.io/post/ic/">
+        </link>
+        <updated>2020-07-15T11:38:25.000Z</updated>
+        <content type="html"><![CDATA[<p>前看到很多复制水卡的帖子，很多都是用的122u<br>
+<img src="https://s1.ax1x.com/2020/07/15/UwIYLD.png" alt="1" loading="lazy"></p>
+<p>看到了吧，有点小贵。。。于是我犹豫了半年。</p>
+<p>后来有个同学问我能不能把水卡给复制了。于是我又重新</p>
+<p>研究了这个玩意.发现还是有替代品的，那就是今天的主角 pn532</p>
+<p>上图</p>
+<figure data-type="image" tabindex="1"><img src="https://www.arduino.cn/data/attachment/forum/201906/03/151901ejp5enuntgeetuw9.jpg" alt="2" loading="lazy"></figure>
+<p>除了要买pn532,还要买一个 usb-TTL和白卡（cuid)</p>
+<p>接线图如下</p>
+<figure data-type="image" tabindex="2"><img src="https://www.arduino.cn/data/attachment/forum/201906/03/151542dp5o9v9oxmjum89o.png" alt="3" loading="lazy"></figure>
+<p>正负极不要接反了要不然可能会烧掉哦</p>
+<p>线路连接好后，我们打开上位机软件</p>
+<figure data-type="image" tabindex="3"><img src="https://s1.ax1x.com/2020/07/15/UwXVQs.png" alt="4" loading="lazy"></figure>
+<p>然后把卡放上去读整卡</p>
+<figure data-type="image" tabindex="4"><img src="https://s1.ax1x.com/2020/07/15/UwjDEV.jpg" alt="5" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://s1.ax1x.com/2020/07/15/Uwvm5T.png" alt="6" loading="lazy"></figure>
+<p>我这张卡花了半个小时左右读出来了</p>
+<p>然后点那个三角形，保存.DUMP文件</p>
+<p>然后把白卡放上去读整卡，然后写整卡，选择.dump文件写进去就好了.</p>
+<p>这样就得到一张00复制的卡。刷完了再去写入就🆗了。</p>
+<p>还没完，把.dump文件拉进分析软件</p>
+<figure data-type="image" tabindex="6"><img src="https://s1.ax1x.com/2020/07/15/UwxrpF.png" alt="7" loading="lazy"></figure>
+<p>同时我去刷了一下我同学的水卡发现4扇区变化了，</p>
+<figure data-type="image" tabindex="7"><img src="https://s1.ax1x.com/2020/07/15/UwxRTx.png" alt="8" loading="lazy"></figure>
+<p>而3扇区是饭卡的，有我们的姓名，我们把3扇区改成和5扇区一样的空数据，把姓名改一下<br>
+最后装个逼</p>
+<h2 id=""><img src="https://s1.ax1x.com/2020/07/15/Uwxq0I.png" alt="9" loading="lazy"></h2>
+<p>出这个教程只是因为我用的卡是一卡通，但是卡丢了洗澡卡里面的钱就找不回来了。所以可以先复制一张，哪天洗澡卡掉了也不会损失太大。<br>
+不要用于非法用途</p>
+<p><a href="https://mp.weixin.qq.com/s/yM16LtL1i0WP3hqYaF4erA">大学生自学复制饭卡，2月获利10万 ，铐手摁床被抓！ </a></p>
+<p>第一次用markdown。语法格式不太会。以后慢慢更正吧。。。。。。。。。。。。。。。。</p>
+<p>补充：软件问卖硬件的卖家要</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://blog.sweetiey.com/post/hello-gridea/</id>
-        <link href="https://blog.sweetiey.com/post/hello-gridea/">
+        <id>https://hexotz.github.io/post/hello-gridea/</id>
+        <link href="https://hexotz.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
